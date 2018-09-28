@@ -8,7 +8,7 @@ html {
 body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; }
 body, button, input, select, textarea { font-family: 'Open Sans', sans-serif; color: #333; }
 
-/*a { color: #C90B0B; }*/
+a { color: #C90B0B; }
 a:visited { color: #C90B0B; }
 a:focus { outline: thin dotted; }
 a:hover, a:active { color: #c00; outline: 0; }
